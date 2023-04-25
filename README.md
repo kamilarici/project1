@@ -1,2 +1,4 @@
 # project1
- proje tanıtımı resimler 
+
+proje tanıtımı resimler
+local değişiklikler
